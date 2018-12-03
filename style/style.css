@@ -1,0 +1,137 @@
+#root {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.navbar {
+    font-family: 'Merriweather', serif;
+}
+
+.nav-item.nav-link:hover {
+    color: #0c1e53 !important;
+}
+
+.nav-item.nav-link:active {
+    color: #0c1e53 !important;
+}
+
+.nav-item.nav-link:focus {
+    color: #0c1e53 !important;
+}
+
+
+#welcome-section {
+    background: url('https://pangestoe.sgp1.digitaloceanspaces.com/banner-image-1.jpg') center;
+    background-size: cover;
+}
+
+#image-banner-section-1 {
+    background: url('https://pangestoe.sgp1.digitaloceanspaces.com/banner-image-5.jpg') center;
+    background-size: cover;
+}
+#image-banner-section-2 {
+    background: url('https://pangestoe.sgp1.digitaloceanspaces.com/banner-image-3.jpg') center;
+    background-size: cover;
+}
+
+
+.section-inner-block {
+    margin: 0;
+    padding: 180px 50px 180px 50px;
+    letter-spacing: 1px;
+    word-wrap: normal;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    line-height: 1.8;
+    color: #ffffff;
+}
+
+.section-inner-block-2nth {
+    margin: 0;
+    padding: 180px 50px 180px 50px;
+    letter-spacing: 1px;
+    word-wrap: normal;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    line-height: 1.8;
+    color: rgba(0,0,0,0.5);
+}
+
+#blog-section .section-inner-block-2nth{
+    padding: 180px 10px 180px 10px;
+}
+
+#welcome-section .section-inner-block {
+    padding-top: 300px;
+}
+
+.section-inner-block h1 {
+    font-family: 'Merriweather', serif;
+    line-height: 1.8;
+    letter-spacing: 2px;
+    font-weight: 300;
+    font-size: 2.3em;
+}
+
+.section-inner-block-2nth h1 {
+    font-family: 'Merriweather', serif;
+    line-height: 1.8;
+    letter-spacing: 2px;
+    font-weight: 300;
+    font-size: 2.3em;
+    color: #0c1e53;
+}
+
+
+
+.text-align-right {
+    text-align: right;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+.text-align-left {
+    text-align: left;
+}
+
+.button {
+    margin: 30px 0px 30px 0px;
+    padding: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 1.2em;
+    letter-spacing: 1px;
+    line-height: 1.8;
+    text-align: center;
+    border: solid #ffffff 0.5px;
+    cursor: pointer;
+}
+
+.button:hover {
+    color: #0c1e53;
+    background-color: rgba(255,255,255,0.7);
+    cursor: pointer;
+}
+
+.upper-border {
+    border-top: solid #999999 0.5px;
+    height: 30px;
+}
+
+.bottom-border {
+    border-bottom: solid #999999 0.5px;
+    height: 30px;
+}
+
+.text-container {
+    font-size: 1.4em;
+    color: #303030;
+    text-align: center;
+    letter-spacing: 0px;
+    margin-bottom: 50px;
+}
+.header-title {
+    margin-bottom: 70px;
+}
