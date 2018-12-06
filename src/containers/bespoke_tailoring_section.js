@@ -35,7 +35,7 @@ export default class BespokeTailoringSection extends Component{
                         then your measurements will be taken.
                     </div>
                     <div className='text-container container'>
-                        On <span style={{'fontWeight': 600, 'fontStyle': 'bold'}}>second</span> meeting we will do the first fitting (base fitting) where only the base fabric of
+                        On <span style={{'fontWeight': 600, 'fontStyle': 'bold'}}>second</span> meeting we will do the first fitting (baste fitting) where only the base fabric of
                         cloth will be fitted to your body, adjustment will be taken from this fitting stage to ensure the cloth fit you nicely.
                     </div>
                     <div className='text-container container'>
