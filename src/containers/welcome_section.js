@@ -14,7 +14,7 @@ export default class WelcomeSection extends Component{
                     <div className='text-align-right'>
                         <h4>WE CREATE CLASSIC MENSWEAR USING THE BEST FABRIC FROM ALL AROUND THE WORLD</h4>
                     </div>
-                    <div className='button'>BOOK YOUR FIRST FITTING</div>
+                    <div className='button'>BOOK YOUR APPOINTMENT</div>
                 </div>
             </div>
         );

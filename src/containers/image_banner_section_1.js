@@ -14,7 +14,7 @@ export default class ImageBannerSection1 extends Component{
                     <div className='text-align-left'>
                         <h4>WE TAILOR A SUIT THAT TELLS YOUR STORY</h4>
                     </div>
-                    <div className='button'>BOOK YOUR FITTING</div>
+                    <div className='button'>BOOK YOUR APPOINTMENT</div>
                 </div>
             </div>
         );
