@@ -5,6 +5,7 @@ import { createStore, applyMiddleware } from 'redux';
 import * as contentful from 'contentful'
 import App from './components/app';
 import reducers from './reducers';
+import 'jquery';
 
 const createStoreWithMiddleware = applyMiddleware()(createStore);
 const client = contentful.createClient({
