@@ -6,11 +6,11 @@ export default class Navbar extends Component{
     render() {
 
         return (
-            <nav className="navbar fixed-top navbar-light navbar-expand-lg bg-light d-flex flex-column align-items-center" id="navbar">
-                <div className="logo-container d-flex">
+            <nav className="navbar fixed-top navbar-light navbar-expand-sm bg-light d-flex flex-column align-items-center" id="navbar">
+                <div className="logo-container d-flex justify-content-center">
                     <div className="info-container d-flex justify-content-start col-xs-4 col-md-4">
-                        <i className="icon fas fa-phone fa-lg"></i><span> 021-123456</span>
-                        <i className="icon fas fa-envelope fa-lg"></i><span> info@pangestoebespoke.com</span>
+                        <i className="icon fas fa-phone fa-lg"></i><span className="text-helper"> 021-123456</span>
+                        <i className="icon fas fa-envelope fa-lg"></i><span className="text-helper"> info@pangestoebespoke.com</span>
                     </div>
                     <div className="logo flex-fill d-flex justify-content-center col-xs-4 col-md-4">
                         <a className="navbar-brand">
@@ -18,7 +18,7 @@ export default class Navbar extends Component{
                     </a>
                     </div>
                     <div className="social-media-container flex-fill d-flex justify-content-end col-xs-4 col-md-4">
-                        <i className="icon fab fa-instagram fa-lg"></i><span> @pangestoe_bespoke</span>
+                        <i className="icon fab fa-instagram fa-lg"></i><span className="text-helper"> @pangestoe_bespoke</span>
                     </div>
                 </div>
                 <div className='link-container flex-column d-flex align-items-center'>

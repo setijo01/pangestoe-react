@@ -6,7 +6,7 @@ export default class CarouselSection2 extends Component{
     render() {
 
         return (
-            <div id='welcome-section' className='image2 section-outer-block container-fluid d-flex flex-fill justify-content-start align-items-stretch'>
+            <div id='welcome-section' className='image2 section-outer-block d-flex flex-fill justify-content-start align-items-stretch'>
                 <div className='container section-inner-block d-flex flex-column col-sm-5'>
                     <div className='text-align-left'>
                         <h1>A CUSTOM SUIT FITS ONLY FOR YOU</h1>
