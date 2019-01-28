@@ -244,8 +244,13 @@ img.line-divider{
 }
 
 .footer-subcontent .button{
-    width: 40% ;
+    width: 40%;
     font-size: 0.8em;
+}
+
+@media (max-width: 800px) {
+    .footer-subcontent .button{
+        width: 100%
 }
 
 a {
