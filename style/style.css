@@ -140,6 +140,7 @@ nav.scrollUp {
 }
 
 .footer{
+    height: 500px;
     font-family: 'Merriweather', serif;
     padding: 10px;
     color: #ffffff;

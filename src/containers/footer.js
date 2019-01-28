@@ -8,7 +8,7 @@ export default class Footer extends Component{
         return (
                 <div className="row basic-container">
                     <div id="about-us-section" className="col-xs-12 col-sm-12 col-md-12 footer">
-                        <div className='d-flex flex-fill justify-content-center align-items-stretch footer-content'>
+                        <div className='row justify-content-center align-items-stretch footer-content'>
                             <div className="footer-subcontent col-xs-12 col-sm-4 col-md-4">
                                 <img src='https://pangestoe.sgp1.digitaloceanspaces.com/logo-invert.png' height='96' alt=''/>
                             </div>

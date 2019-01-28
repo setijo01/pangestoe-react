@@ -15,8 +15,8 @@ export default class App extends Component {
           <Carousel/>
           <Section1/>
           <Section2/>
-            <Section3/>
-            <Section4/>
+          <Section3/>
+          <Section4/>
           <Footer/>
         </div>
     );
