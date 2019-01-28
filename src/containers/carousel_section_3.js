@@ -11,7 +11,7 @@ export default class CarouselSection3 extends Component{
                     <div className='text-align-right'>
                         <h4>Whatever your goal is, make sure you’re wearing the right suit when you finally achieve them.</h4>
                     </div>
-                    <div className='button'>BOOK YOUR APPOINTMENT TODAY</div>
+                    <a href="#footer-section"><div className='button'>BOOK YOUR APPOINTMENT TODAY</div></a>
                 </div>
             </div>
         );

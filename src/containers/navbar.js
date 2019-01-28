@@ -32,7 +32,7 @@ export default class Navbar extends Component{
                             <a className="nav-item nav-link" href="#about-us-section">About Us</a>
                             <a className="nav-item nav-link" href="#gallery-section">Gallery</a>
                             <a className="nav-item nav-link" href="#blog-section">Blog</a>
-                            <a className="nav-item nav-link" href="#contact-section">Contact</a>
+                            <a className="nav-item nav-link" href="#footer-section">Contact</a>
                         </div>
                     </div>
                 </div>

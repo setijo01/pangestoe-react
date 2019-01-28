@@ -6,8 +6,8 @@ export default class Section4 extends Component{
     render() {
 
         return (
-                <div className="row basic-container">
-                    <div id="blog-section" className="col-xs-12 col-sm-12 col-md-12 section-block">
+                <div id="blog-section" className="row basic-container">
+                    <div className="col-xs-12 col-sm-12 col-md-12 section-block">
                         <div className='image9 d-flex flex-fill justify-content-center align-items-stretch'>
                             <form className="d-flex justify-content-center align-items-center">
                                 <div className="form-group">
