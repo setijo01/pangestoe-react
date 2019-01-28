@@ -17,9 +17,8 @@ export default class Section3 extends Component{
                                     <img className="line-divider" src="https://pangestoe.sgp1.digitaloceanspaces.com/line-divider.png"/>
                                 </div>
                                 <div className='text-align-center'>
-                                    <h1>Coming Soon</h1>
+                                    <h1>COMING SOON</h1>
                                 </div>
-                                <div className='button'>Learn More</div>
                             </div>
                         </div>
                     </div>
