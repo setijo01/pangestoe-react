@@ -8,18 +8,18 @@ export default class Section4 extends Component{
         return (
                 <div className="row basic-container">
                     <div id="blog-section" className="col-xs-12 col-sm-12 col-md-12 section-block">
-                        <div className='image8 d-flex flex-fill justify-content-center align-items-stretch'>
-                            <div className='container section-smaller-block d-flex justify-content-center flex-column col-sm-5'>
-                                <div className='text-align-center'>
-                                    <h4>Blog</h4>
+                        <div className='image9 d-flex flex-fill justify-content-center align-items-stretch'>
+                            <form className="d-flex justify-content-center align-items-center">
+                                <div className="form-group">
+                                    <input type="text" className="form-control" id="sender_name" name="sender_name"
+                                           aria-describedby="nameHelp" placeholder="Your name" />
+                                        <input type="email" className="form-control" id="sender_email"
+                                               name="sender_email" placeholder="Your email" />
+                                            <textarea className="form-control" id="message" name="message" rows="7"
+                                                      placeholder="Your message"></textarea>
+                                            <div className='button-reverse'>Submit Inquiries</div>
                                 </div>
-                                <div className="text-align-center">
-                                    <img className="line-divider" src="https://pangestoe.sgp1.digitaloceanspaces.com/line-divider.png"/>
-                                </div>
-                                <div className='text-align-center'>
-                                    <h1>COMING SOON</h1>
-                                </div>
-                            </div>
+                            </form>
                         </div>
                     </div>
                 </div>
