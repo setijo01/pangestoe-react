@@ -14,7 +14,6 @@ export default class CarouselSection2 extends Component{
                     <div className='text-align-left'>
                         <h4>WE TAILOR A SUIT THAT TELLS YOUR STORY</h4>
                     </div>
-                    <a href="#footer-section"><div className='button'>BOOK YOUR APPOINTMENT</div></a>
                 </div>
             </div>
         );

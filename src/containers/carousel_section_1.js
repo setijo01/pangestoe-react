@@ -14,7 +14,6 @@ export default class CarouselSection1 extends Component{
                     <div className='text-align-right'>
                         <h4>WE CREATE CLASSIC MENSWEAR USING THE BEST FABRIC FROM ALL AROUND THE WORLD</h4>
                     </div>
-                    <a href="#footer-section"><div className='button'>BOOK YOUR APPOINTMENT</div></a>
                 </div>
             </div>
         );
