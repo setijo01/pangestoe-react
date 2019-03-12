@@ -17,7 +17,7 @@ export default class Section1 extends Component{
                                     <img className="line-divider" src="https://pangestoe.sgp1.digitaloceanspaces.com/line-divider.png"/>
                                 </div>
                                 <div className='text-align-center'>
-                                    <h1>WHAT IT MEANS TO THE WAY WE CRAFT</h1>
+                                    <h1>Real luxury is understanding quality, and having the time to enjoy it.</h1>
                                 </div>
                                 <div className='button'>Learn More</div>
                             </div>
@@ -33,9 +33,9 @@ export default class Section1 extends Component{
                                     <img className="line-divider" src="https://pangestoe.sgp1.digitaloceanspaces.com/line-divider.png"/>
                                 </div>
                                 <div className='text-align-center'>
-                                    <h1>WE DELIVER THE BEST SUITS IN THE CITY</h1>
+                                    <h1>We're passionate about quality, and everyone should invest more in quality clothing.</h1>
                                 </div>
-                                <div className='button'>Learn More</div>
+                                <div className='button'>Click to Find Out</div>
                             </div>
                         </div>
                     </div>

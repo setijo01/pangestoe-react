@@ -19,7 +19,7 @@ export default class Section2 extends Component{
                                 <div className='text-align-center'>
                                     <h1>OUR STORY AND LEGACY</h1>
                                 </div>
-                                <div className='button'>Learn More</div>
+                                <div className='button'>Get to Know Us</div>
                             </div>
                         </div>
                     </div>
